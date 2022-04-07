@@ -1,2 +1,5 @@
-practice38
 practice38.txt
+
+# wild card
+*.a 
+*.[ab]
